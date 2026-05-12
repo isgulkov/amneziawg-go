@@ -1,4 +1,4 @@
-module github.com/amnezia-vpn/amneziawg-go
+module github.com/sagernet/amneziawg-go
 
 go 1.25.4
 

@@ -14,7 +14,6 @@ git rm -rf --ignore-unmatch \
   tun/operateonfd.go \
   tun/tcp_offload_linux.go \
   tun/tun_*.go \
-  *.go \
   *.md
 
 go mod tidy

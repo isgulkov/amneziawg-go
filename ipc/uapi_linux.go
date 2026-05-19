@@ -9,7 +9,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/sagernet/amneziawg-go/rwcancel"
+	"github.com/isgulkov/amneziawg-go/rwcancel"
 	"golang.org/x/sys/unix"
 )
 

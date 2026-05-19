@@ -22,7 +22,7 @@ import (
 	"github.com/sagernet/sing/common/exceptions"
 	"github.com/sagernet/sing/common/metadata"
 
-	"github.com/sagernet/amneziawg-go/conn/winrio"
+	"github.com/isgulkov/amneziawg-go/conn/winrio"
 )
 
 const (

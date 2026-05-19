@@ -15,10 +15,10 @@ import (
 	"github.com/sagernet/sing/service"
 	"github.com/sagernet/sing/service/pause"
 
-	"github.com/sagernet/amneziawg-go/conn"
-	"github.com/sagernet/amneziawg-go/ratelimiter"
-	"github.com/sagernet/amneziawg-go/rwcancel"
-	"github.com/sagernet/amneziawg-go/tun"
+	"github.com/isgulkov/amneziawg-go/conn"
+	"github.com/isgulkov/amneziawg-go/ratelimiter"
+	"github.com/isgulkov/amneziawg-go/rwcancel"
+	"github.com/isgulkov/amneziawg-go/tun"
 )
 
 type Device struct {

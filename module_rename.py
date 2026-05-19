@@ -6,8 +6,8 @@ import argparse
 import fileinput
 
 
-PKG_ORIGINAL = "github.com/amnezia-vpn/amneziawg-go"
-PKG_NEW = "github.com/sagernet/amneziawg-go"
+PKG_ORIGINAL = "github.com/sagernet/amneziawg-go"
+PKG_NEW = "github.com/isgulkov/amneziawg-go"
 
 EXTENSIONS = [".go", ".md", ".mod", ".sh"]
 

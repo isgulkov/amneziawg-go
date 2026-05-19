@@ -8,7 +8,7 @@ package device
 import (
 	"fmt"
 
-	"github.com/sagernet/amneziawg-go/tun"
+	"github.com/isgulkov/amneziawg-go/tun"
 )
 
 const DefaultMTU = 1420

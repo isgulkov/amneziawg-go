@@ -1,4 +1,4 @@
-module github.com/sagernet/amneziawg-go
+module github.com/isgulkov/amneziawg-go
 
 go 1.25.4
 
